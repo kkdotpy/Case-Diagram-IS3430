@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
   <diagram name="Page-1" id="nhH219w7BHymyVMjUTxh">
-    <mxGraphModel dx="2417" dy="1507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2801" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -861,7 +861,7 @@
             <mxPoint x="-15" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rIL0YVJYZnzwUtKtq6XA-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.577;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rIL0YVJYZnzwUtKtq6XA-9" target="rIL0YVJYZnzwUtKtq6XA-10">
+        <mxCell id="rIL0YVJYZnzwUtKtq6XA-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.577;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="rIL0YVJYZnzwUtKtq6XA-9" target="rIL0YVJYZnzwUtKtq6XA-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-920" y="1560" as="sourcePoint" />
             <mxPoint x="-670" y="1560" as="targetPoint" />
@@ -870,6 +870,28 @@
               <mxPoint x="-653" y="1550" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rIL0YVJYZnzwUtKtq6XA-37" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e3c800;strokeColor=#B09500;entryX=0.326;entryY=1.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rIL0YVJYZnzwUtKtq6XA-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-840" y="1550" as="sourcePoint" />
+            <mxPoint x="-790" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIL0YVJYZnzwUtKtq6XA-38" value="Partial Dependency" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="1550" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rIL0YVJYZnzwUtKtq6XA-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#6d8764;strokeColor=#3A5431;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rIL0YVJYZnzwUtKtq6XA-10" target="rIL0YVJYZnzwUtKtq6XA-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="1570" as="sourcePoint" />
+            <mxPoint x="-510" y="1520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-627" y="1540" />
+              <mxPoint x="-477" y="1540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIL0YVJYZnzwUtKtq6XA-40" value="Transitive Dependency" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#994C00;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="1540" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
